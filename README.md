@@ -15,6 +15,6 @@ Authors:
 
 Haya Elayan, xAnalytics Inc., Ottawa, ON, Canada. E-mails: h.elayan@xanalytics.ca
 
-Moayad Aloqaily, Qatar University, Doha, Qatar. E-mail: maloqaily@ieee.org
+Moayad Aloqaily, Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), UAE. E-mail: maloqaily@ieee.org
 
-Mohsen Guizani, Qatar University, Doha, Qatar. E-mail: mguizani@ieee.org
+Mohsen Guizani, Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), UAE. E-mail: mguizani@ieee.org
